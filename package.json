@@ -1,0 +1,21 @@
+{
+  "name": "my-audio-visualizer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "canvas-sketch": "^0.7.7",
+    "ccapture.js": "^1.1.0",
+    "dat.gui": "^0.7.9",
+    "three": "^0.176.0",
+    "vite-plugin-glsl": "^1.4.1"
+  }
+}
