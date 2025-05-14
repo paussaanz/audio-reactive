@@ -6,10 +6,10 @@ let audio, audioData, audioContext, analyserNode, sourceNode;
 let lastBeatTime = 0;
 const beatThreshold = -60; // Ajusta este valor según la sensibilidad de detección de beats
 const songs = {
-    Energy: '../files/RTL.mp3',
-    Chill: '../files/TAK.mp3',
-    Soul: '../files/Soul.mp3' ,
-    Funky: '../files/Funky.mp3'
+    Energy: './files/RTL.mp3',
+    Chill: './files/TAK.mp3',
+    Soul: './files/Soul.mp3' ,
+    Funky: './files/Funky.mp3'
 };
 
 /*------------------------------

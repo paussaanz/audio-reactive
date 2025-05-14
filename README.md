@@ -89,13 +89,6 @@ Para grabar la visualización puedes:
 
 ---
 
-## ✨ Capturas de Pantalla
-
-![Screenshot 1](./assets/screenshot1.png)  
-![Screenshot 2](./assets/screenshot2.png)
-
----
-
 ## 📝 Licencia
 
 MIT License.
